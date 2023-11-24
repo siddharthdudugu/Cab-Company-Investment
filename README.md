@@ -6,9 +6,7 @@ XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in las
 
 Project delivery:
 
-You have been provided with multiple data sets that contains information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment.
-
-The outcome of your delivery will be a presentation to XYZ’s Executive team. This presentation will be judged based on the visuals provided, the quality of your analysis and the value of your recommendations and insights. 
+You have been provided with multiple data sets that contains information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment. 
 
 Data Set:
 
@@ -34,9 +32,6 @@ Determine which files should be joined versus which ones should be appended
 Create master data and explain the relationship
 Identify and remove duplicates
 Perform other analysis like NA value and outlier detection
- 
-
-Whatever and how many slides you prepare(Be creative and come up with meaningful insight):
 
 The idea is to create a hypothesis, engage with the data, think critically, and use various analytical approaches to produce unique insights.
 
